@@ -2,6 +2,6 @@
 Useful scripts for various things
 
 # PowershellScripts
-*Convert-JsontoCSV
+    Convert-JsontoCSV
 
-*Export-Chromebookmarks
+    Export-Chromebookmarks
